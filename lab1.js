@@ -19,4 +19,5 @@ gameOfLife.imprimirMatriz(Matriz);
 
 gameOfLife.iniciarJuego(Matriz,1000);
 
+console.log("JUEGO DE LA VIDA SEGUNDA PARTE: EL REGRESO DE ARAYA");
 console.log("CONFLICTOOOOOOO!!!!!!!!!!!!!");
