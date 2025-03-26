@@ -18,3 +18,5 @@ gameOfLife.insertCelula(Matriz,1,3);
 gameOfLife.imprimirMatriz(Matriz);
 
 gameOfLife.iniciarJuego(Matriz,1000);
+
+console.log("CONFLICTOOOOOOO!!!!!!!!!!!!!");
